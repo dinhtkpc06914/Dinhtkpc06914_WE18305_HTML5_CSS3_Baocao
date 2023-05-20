@@ -165,3 +165,7 @@ header{
     color: white;
     margin-top: 10px;
   }
+  .line{
+  margin-top: 340px;
+  position: absolute;
+  }
