@@ -134,7 +134,7 @@ header{
   table .content1 .nd1{
     position: absolute;
     top: 30px;
-    right: 400px;
+    right: 450px;
     font-size: 20px;
    font-variant: small-caps;
   }
@@ -146,7 +146,7 @@ header{
   table .content2 .nd2{
     position: absolute;
     top: 350px;
-    right: 400px;
+    right: 450px;
     font-size: 20px;
    font-variant: small-caps;
   }
